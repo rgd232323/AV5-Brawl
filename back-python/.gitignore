@@ -1,0 +1,47 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask Instance folder (contains local configurations)
+instance/
+
+# Environment Variables & Secrets
+.env
+.flaskenv
+*.env
+secret_key.txt
+
+# Databases (Local SQLite)
+*.db
+*.sqlite
+*.sqlite3
+
+# Unit testing / Coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Log files
+*.log
+logs/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+

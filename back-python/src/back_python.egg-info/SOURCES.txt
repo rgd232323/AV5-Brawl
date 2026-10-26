@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/app.py
+src/config.py
+src/back_python.egg-info/PKG-INFO
+src/back_python.egg-info/SOURCES.txt
+src/back_python.egg-info/dependency_links.txt
+src/back_python.egg-info/requires.txt
+src/back_python.egg-info/top_level.txt
+src/models/pessoa.py
+src/routes/login.py
+src/routes/pessoa.py
+src/routes/utils.py
+src/services/pessoa.py
